@@ -1,1 +1,1 @@
-###This is a sample selenium pytest project with hybrid framework. You can run tests by double clicking the run.bat file. You can also uncomment which command you want to run and comment the unwanted commands.  
+# This is a sample selenium pytest project with hybrid framework. You can run tests by double clicking the run.bat file. You can also uncomment which command you want to run and comment the unwanted commands.  
